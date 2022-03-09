@@ -9,7 +9,7 @@
 *.zip
 *.tar.gz
 *.rar
-*.idea
-*lib
-*Kotlin.iml
-out/production/Kotlin
+.idea/
+lib/
+Kotlin.iml
+out/production/Kotlin/
